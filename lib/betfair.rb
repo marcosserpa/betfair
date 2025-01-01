@@ -1,5 +1,5 @@
-require "betfair/version"
-require "betfair/client"
+require_relative "betfair/version"
+require_relative "betfair/client"
 
 module Betfair
 end

@@ -17,7 +17,7 @@ gem 'betfair-ng'
 And then execute:
 
     $ bundle
-    
+
 Or install it yourself as:
 
     $ gem install betfair-ng
@@ -139,7 +139,7 @@ This also allows you to use 2-factor authentication for your online account acce
 
 ## Contributing
 
-1. Fork it ( https://github.com/mikecmpbll/betfair/fork )
+1. Fork it ( https://github.com/marcosserpa/betfair/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

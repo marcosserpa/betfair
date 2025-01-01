@@ -1,6 +1,6 @@
-require "betfair/api/rest"
-require "betfair/api/rpc"
-require "betfair/utils"
+require_relative "api/rest"
+require_relative "api/rpc"
+require_relative "utils"
 require "httpi"
 require "active_support/core_ext/hash"
 
